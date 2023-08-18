@@ -1,6 +1,6 @@
 # feistel
 
-[![Go Reference](https://pkg.go.dev/badge/wttw/feistel.svg)](https://pkg.go.dev/wttw/feistel)
+[![Go Reference](https://pkg.go.dev/badge/github.com/wttw/feistel.svg)](https://pkg.go.dev/github.com/wttw/feistel)
 
 Obfuscate sequential sequences
 
