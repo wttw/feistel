@@ -1,4 +1,7 @@
 # feistel
+
+[![Go Reference](https://pkg.go.dev/badge/wttw/feistel.svg)](https://pkg.go.dev/wttw/feistel)
+
 Obfuscate sequential sequences
 
 This package provides functions to map a value in a range to another value in the same
